@@ -5,7 +5,7 @@ public class Main {
         int numero3 = 15;
 
         int resultado = sumarTresNumeros(numero1, numero2, numero3);
-        System.out.println("La suma de los tres números es: " + resultado);
+        System.out.println("La suma de los tres numbers es: " + resultado);
         Coche miCoche = new Coche();
         miCoche.IncrementarPuerta();
         System.out.println("El numero de puertas del coche es "+miCoche.puertas);
